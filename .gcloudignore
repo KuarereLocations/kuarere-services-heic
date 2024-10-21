@@ -1,0 +1,4 @@
+kubernetes
+*.exe
+test
+deploy.md
